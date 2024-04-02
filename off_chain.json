@@ -2,12 +2,12 @@
     "name": "sharktopuss",
     "symbol": "SHARK",
     "description": "sharktopuss will take over the meme world full of cats and dogs",
-    "image": "https://github.com/solcoinmaster/coinsolmeme/blob/0c487ba52418d593d92c74297a729a5b7660f49b/coin.png?raw=true",
+    "image": "https://raw.githubusercontent.com/solcoinmaster/coinsolmeme/main/coin.png",
     "attributes": [],
     "properties": {
       "files": [
         {
-          "uri": "https://github.com/solcoinmaster/coinsolmeme/blob/0c487ba52418d593d92c74297a729a5b7660f49b/coin.png?raw=true",
+          "uri": "https://raw.githubusercontent.com/solcoinmaster/coinsolmeme/main/coin.png",
           "type": "image/png"
         }
       ]
